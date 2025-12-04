@@ -5,7 +5,7 @@ export default function WelcomeScreen({ navigation }) {
     return (
         <View style={styles.container}>
             <Text style={styles.title}>Welcome to Vivah Gatha</Text>
-            <Text style={styles.subtitle}>Find Your Perfect Match</Text>
+            <Text style={styles.subtitle}>Find Your Perfect Match with our  VivahGatha</Text>
 
             <TouchableOpacity
                 style={styles.button}
